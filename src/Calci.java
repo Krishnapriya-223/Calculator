@@ -18,8 +18,6 @@ public class Calci extends JFrame{
 	Button b1, b2, b3, b4, b5, b6, b7, b8, b9, b0, bplus, bminus, bmul, bdiv, bclr, beq, bdel; 
 	
 	
-	
-	
 	public Calci() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(500, 100, 365, 608);
